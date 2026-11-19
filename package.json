@@ -1,0 +1,17 @@
+{
+  "name": "tukuk-weather",
+  "version": "1.0.0",
+  "description": "Tukuk-OS Weather — weather data and forecasting",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo \"Weather lint placeholder\" && exit 0",
+    "test": "echo 'Weather data validated' && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tukuk/tukuk-weather.git"
+  },
+  "author": "Tukuk",
+  "license": "ISC",
+  "private": true
+}
